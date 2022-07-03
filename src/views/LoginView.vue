@@ -1,7 +1,6 @@
 <template>
 
     <article>
-        ***
         <!-- Login -->
         <h2>Login</h2>
         <div>
