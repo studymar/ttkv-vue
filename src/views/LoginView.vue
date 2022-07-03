@@ -1,11 +1,11 @@
 <template>
 
     <article>
+        ***
         <!-- Login -->
         <h2>Login</h2>
         <div>
             <form action="" method="post">
-            
                 <br/>
                 <div class="mb-3">
                     <label for="email" class="form-label">Email</label>
